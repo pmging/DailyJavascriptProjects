@@ -1,0 +1,46 @@
+  h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  h1,
+  div {
+        text-align: center;
+  }
+  
+  button, label {
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    color: #333;
+    border: none;
+    background-color: transparent;
+  }
+
+  label {
+    font-size: 5rem;
+  }
+
+  #decBtn,
+  #incBtn {
+    font-size: 3rem;
+  }
+
+  button:hover {
+    background-color: #ddd;
+    cursor: pointer;
+  }
+
+  #decBtn:hover {
+    background-color: rgb(255, 0, 0, 0.8);
+  }
+
+  #incBtn:hover {
+    background-color: rgba(125, 250, 0, 0.8);
+  }
+
+  #rstBtn {
+    background-color: #ddd;
+  }
