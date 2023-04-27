@@ -7,3 +7,4 @@ Daily Javascript Projects for Beginners
 3. Day 3: [Snake Game](https://raw.githack.com/pmging/DailyJavascriptProjects/main/SnakeGame/index.html)
 4. Day 4: [Color Flipper](https://raw.githack.com/pmging/DailyJavascriptProjects/main/ColorFlipper/index.html)
 5. Day 5: [Budget App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/BudgetApp/index.html) (Ongoing project)
+6. Day 6: [Counter Program](https://raw.githack.com/pmging/DailyJavascriptProjects/main/CounterProgram/index.html)
