@@ -12,3 +12,4 @@ Day 7: [Number Guessing Game](https://raw.githack.com/pmging/DailyJavascriptProj
 Day 8: [Pong Game](https://raw.githack.com/pmging/DailyJavascriptProjects/main/PongGame/index.html)  
 Day 9: [Calculator](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Calculator/index.html)  
 Day 10: [Weather App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/WeatherApp/index.html)  
+Day 11: [Rock Paper Scissors](https://raw.githack.com/pmging/DailyJavascriptProjects/main/RockPaperScissor/index.html)  
