@@ -11,4 +11,4 @@ Day 6: [Counter Program](https://raw.githack.com/pmging/DailyJavascriptProjects/
 Day 7: [Number Guessing Game](https://raw.githack.com/pmging/DailyJavascriptProjects/main/NumberGuessingGame/index.html)  
 Day 8: [Pong Game](https://raw.githack.com/pmging/DailyJavascriptProjects/main/PongGame/index.html)  
 Day 9: [Calculator](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Calculator/index.html)  
-Day 10: [Weather App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/WeatherApp/index.html) (Ongoing, waiting for API key approval)
+Day 10: [Weather App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/WeatherApp/index.html)  
