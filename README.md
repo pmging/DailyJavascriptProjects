@@ -13,3 +13,4 @@ Day 8: [Pong Game](https://raw.githack.com/pmging/DailyJavascriptProjects/main/P
 Day 9: [Calculator](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Calculator/index.html)  
 Day 10: [Weather App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/WeatherApp/index.html)  
 Day 11: [Rock Paper Scissors](https://raw.githack.com/pmging/DailyJavascriptProjects/main/RockPaperScissor/index.html)  
+Day 12: [Speed Typing Test](https://raw.githack.com/pmging/DailyJavascriptProjects/main/SpeedTypingTest/index.html)  
