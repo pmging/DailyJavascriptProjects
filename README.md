@@ -16,3 +16,4 @@ Day 11: [Rock Paper Scissors](https://raw.githack.com/pmging/DailyJavascriptProj
 Day 12: [Speed Typing Test](https://raw.githack.com/pmging/DailyJavascriptProjects/main/SpeedTypingTest/index.html)  
 Day 13: [Real Time Chat App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/RealTimeChatApp/index.html)  
 Day 14: [Day of the Week](https://raw.githack.com/pmging/DailyJavascriptProjects/main/DayoftheWeek/index.html)  
+Day 15: [Analog Clock](https://raw.githack.com/pmging/DailyJavascriptProjects/main/AnalogClock/index.html)  
