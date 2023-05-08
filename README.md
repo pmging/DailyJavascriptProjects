@@ -17,3 +17,4 @@ Day 12: [Speed Typing Test](https://raw.githack.com/pmging/DailyJavascriptProjec
 Day 13: [Real Time Chat App](https://raw.githack.com/pmging/DailyJavascriptProjects/main/RealTimeChatApp/index.html)  
 Day 14: [Day of the Week](https://raw.githack.com/pmging/DailyJavascriptProjects/main/DayoftheWeek/index.html)  
 Day 15: [Analog Clock](https://raw.githack.com/pmging/DailyJavascriptProjects/main/AnalogClock/index.html)  
+Day 16: [Stopwatch](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Stopwatch/index.html)  
