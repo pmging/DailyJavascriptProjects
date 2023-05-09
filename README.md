@@ -18,3 +18,4 @@ Day 13: [Real Time Chat App](https://raw.githack.com/pmging/DailyJavascriptProje
 Day 14: [Day of the Week](https://raw.githack.com/pmging/DailyJavascriptProjects/main/DayoftheWeek/index.html)  
 Day 15: [Analog Clock](https://raw.githack.com/pmging/DailyJavascriptProjects/main/AnalogClock/index.html)  
 Day 16: [Stopwatch](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Stopwatch/index.html)  
+Day 17: [Images Slider](https://raw.githack.com/pmging/DailyJavascriptProjects/main/ImagesSlider/index.html)  
