@@ -19,3 +19,4 @@ Day 14: [Day of the Week](https://raw.githack.com/pmging/DailyJavascriptProjects
 Day 15: [Analog Clock](https://raw.githack.com/pmging/DailyJavascriptProjects/main/AnalogClock/index.html)  
 Day 16: [Stopwatch](https://raw.githack.com/pmging/DailyJavascriptProjects/main/Stopwatch/index.html)  
 Day 17: [Images Slider](https://raw.githack.com/pmging/DailyJavascriptProjects/main/ImagesSlider/index.html)  
+Day 18: [Random Quote Generator](https://raw.githack.com/pmging/DailyJavascriptProjects/main/RandomQuoteGenerator/index.html)  
